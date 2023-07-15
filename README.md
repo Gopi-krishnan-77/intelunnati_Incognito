@@ -41,5 +41,5 @@ A division algorithm is a mathematical process that calculates the quotient and/
 6. The final values of quotient_reg and remainder_reg are assigned to the output signals quotient and remainder, respectively, using assigned statements.
 
 ## Tools Used
-Intel® Quartus® Prime Lite Software and ModelSim Altera for Simulation
-LabsLand Online Virtual Laboratory Setup
+- Intel® Quartus® Prime Lite Software and ModelSim Altera for Simulation
+- LabsLand Online Virtual Laboratory Setup
